@@ -1,0 +1,38 @@
+/* Estilos al body */
+.bgcolor {
+  background-color: aquamarine;
+}
+
+/* Estilos al header */
+header {
+  text-align: center;
+}
+
+.logo {
+  width: 250px;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: violet;
+  height: 50px;
+}
+
+li {
+  color: white;
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+}
+
+/* Estilos al footer */
+footer {
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  margin-left: 0;
+}/*# sourceMappingURL=estilos.css.map */

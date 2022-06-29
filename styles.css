@@ -1,0 +1,35 @@
+.bgcolor{
+    background-color: aquamarine;
+}
+
+header{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    margin-left: 0;
+}
+
+.logo{
+    width: 250px;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: blueviolet;
+    height: 50px;
+}
+
+li{
+    color: #ffff;
+}
+
+li > a{
+    text-decoration: none;
+    color: #ffff;
+}
